@@ -3,7 +3,7 @@
 *not final, tbd final tokenomics*
 
 ## Abstract
-> The RAIR web3 infrastructure stack enables the creation of scalable Dapps through an open token licensing model. The RAIR open token license inherits the Apache 2.0 methodology by requiring a NFT license to be included inside the source License.md file. This allows for secure onchain tracking of licenses for the first time. 
+> The RAIR web3 infrastructure stack enables the creation of scalable Dapps through an open token licensing model. The RAIR open token license inherits the Apache 2.0 methodology by requiring a NFT license to be included inside the source License.md file. Used together or independently, the licensed RAIR codebase allows developers to build their own independent NFT marketplace and DRM infrastructure with all relevant smart contracting, account creation, and scalable offchain cloud management logic.
 
 Table of Contents
 =================
