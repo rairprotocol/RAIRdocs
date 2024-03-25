@@ -223,9 +223,9 @@ The RAIR system is only possible thanks to years of hard work and dedication fro
 
 ## References
 
-[1] Stephen Shanklan. Late IPO change left many red-faced — cnet.com, 1 2002. https://www.
+* [1] Stephen Shanklan. Late IPO change left many red-faced — cnet.com, 1 2002. https://www.
 cnet.com/tech/tech-industry/late-ipo-change-left-many-red-faced/
-[2] Joel Monegro. Fat Protocols, 8 2016. https://www.usv.com/writing/2016/08/fat-protocols/
-[3] Alana Edgin. Texas Tech alum sells Tronic, Web3 innovator, for $12.25 billion, 3
+* [2] Joel Monegro. Fat Protocols, 8 2016. https://www.usv.com/writing/2016/08/fat-protocols/
+* [3] Alana Edgin. Texas Tech alum sells Tronic, Web3 innovator, for $12.25 billion, 3
 2024. https://www.lubbockonline.com/story/business/2024/03/15/texas-tech-alum-sells-tronic-web3-innovator-for-12-25-billion/72971130007/
-[4] Apache Foundation. APACHE LICENSE, VERSION 2.0, 1 2004. https://www.apache.org/licenses/LICENSE-2.0
+* [4] Apache Foundation. APACHE LICENSE, VERSION 2.0, 1 2004. https://www.apache.org/licenses/LICENSE-2.0
