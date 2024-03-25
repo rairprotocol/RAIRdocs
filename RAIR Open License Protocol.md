@@ -28,11 +28,6 @@ Table of Contents
     - [ ] [Risks and Benefits [3.4]](#Risks-and-Benefits-34)
 
 - [ ]  [4. Tokenomics](#4-Tokenomics)
-    - [ ] [Deflationary Burning [4.1]](#Deflationary-Burning-41)
-    - [ ] [Inflationary Rewards [4.2]](#Inflationary-Rewards-42)
-    - [ ] [Token Distribution [4.3]](#Token-Distribution-43)
-    - [ ] [Token Supply [4.4]](#Token-Supply-44)
-    - [ ] [Points Accrual [4.5]](#Points-Accrual-45)
 
 * [Acknowledgements](#Acknowledgements)
     * [References](#References)
